@@ -50,7 +50,7 @@ a:hover { color: var(--background-color); background-color: var(--base-color); }
 }
 
 p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; }
-footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px;  text-align: right; }
+footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px;  text-align: left; }
 header { margin-top: 25px;  margin-bottom: 10px; }
 header p { text-align: left;  margin: 0; }
 footer { margin-bottom: 20px; }
